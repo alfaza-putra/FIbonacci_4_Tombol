@@ -125,7 +125,7 @@ Berikut adalah coding pada menu layout :
     <string name="button_label_count">Count</string>
     <string name="count_initial_value">0</string>
     <string name="coast_message">Hello Toast</string>
-    <string name="Back">Back</string>
+    <string name="Back">Keluar</string>
 </resources>
 ```
 
