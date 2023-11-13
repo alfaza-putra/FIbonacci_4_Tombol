@@ -1,4 +1,4 @@
-# FIbonacci_4_Tombol
+# FIbonacci_UTS
 
 Nama : Alfaza putra adjie ariefiansyah
 
@@ -285,6 +285,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## Hasil Run 
 
+
+
+https://github.com/alfaza-putra/FIbonacci_4_Tombol/assets/129705943/f7023fb6-91f5-4eaf-b31f-1fa140b9b345
 
 
 
