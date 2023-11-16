@@ -17,10 +17,10 @@ Tugas : Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan F
 |----|------------|----------------------------------------|
 | 1. | Layout     | [Click Here](#layout)               |
 | 2. | Java       | [Click Here](#java-class)     |
-| 3. | Hasil Run  | [Click Here](#hasil-run)            |
+| 3. | Hasil Design  | [Click Here](#hasil-run)            |
+| 4. | Hasil Run   |  [Click Here](#hasil-run)    |
 
-> - Disini, saya akan mengerjakan dan menjelaskan tugas dari mata kuliah "Pemrograman Mobile 1" yaitu membuat sebuah aplikasi untuk menampilkan bilangan Fibonacci. Selain itu saya juga akan merubah sedikit tampilan dari yang diperintahkan pada tugas, yaitu menambah tombol `Restart` dan menambah tombol `Masukkan Angka Limit` 
-
+> - Disini, saya akan mengerjakan dan menjelaskan tugas dari mata kuliah "Pemrograman Mobile 1" yaitu membuat sebuah aplikasi untuk menampilkan bilangan Fibonacci.
 
 ## Layout
 Pada layout ini, saya membuat tiga button dan satu textview :
@@ -281,6 +281,11 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+## Hasil Design
+
+![Screenshot 2023-11-16 134529](https://github.com/alfaza-putra/FIbonacci_4_Tombol/assets/129705943/474933a2-30de-44be-b6ac-323c79e713b3)
+
 
 
 ## Hasil Run 
